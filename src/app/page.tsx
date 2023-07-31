@@ -6,7 +6,7 @@ import Navigation from "@/components/Navigation";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Navigation />
+      {/* <Navigation /> */}
       <h1>Home</h1>
     </main>
   );
